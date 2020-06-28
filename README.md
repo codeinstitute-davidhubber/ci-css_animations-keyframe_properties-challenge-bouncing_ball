@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-css_animations-keyframe_properties-challenge-bouncing_ball/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-css_animations-keyframe_properties-challenge-bouncing_ball/'**
 ***
 title: **'Code Institiute - CSS Animations - Keyframe Properties - Challenge - Bouncing Ball'**
 
